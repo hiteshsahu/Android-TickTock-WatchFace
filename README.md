@@ -3,13 +3,13 @@ Android experimental funky looking watchface for android wear
 
 While browsing 9Gags I came across a Gif file of clock similar to this image :-
 
-![Alt text](https://github.com/hiteshsahu/Android-TickTock-WatchFace/blob/master/res/Gif/ticktock.gif "TickTock Gif")
+![Alt text](https://github.com/hiteshsahu/Android-TickTock-WatchFace/blob/master/Gif/ticktock.gif "TickTock Gif")
 
 I decide to create this in Android I am able to make roatting dial with angular speed of 30degree/seconds (360 degrees/12hours).
 And I am able to change Tick into tock and tock into tick each second. 
 
-![Alt text](https://github.com/hiteshsahu/Android-TickTock-WatchFace/blob/master/res/Gif/tick.png "tick")
-![Alt text](https://github.com/hiteshsahu/Android-TickTock-WatchFace/blob/master/res/Gif/tock.png "tock")
+![Alt text](https://github.com/hiteshsahu/Android-TickTock-WatchFace/blob/master/Gif/tick.png "tick")
+![Alt text](https://github.com/hiteshsahu/Android-TickTock-WatchFace/blob/master/Gif/tock.png "tock")
 
 
 This project uses feature of https://github.com/ogaclejapan/ArcLayout to create dial and object animator for rotation. 
